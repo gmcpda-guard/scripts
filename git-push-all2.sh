@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 set -u
-
 TARGET="${1:-.}"
 
 push_repo() {
